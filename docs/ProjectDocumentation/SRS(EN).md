@@ -41,7 +41,7 @@ Key | Reaction
 #### 2.3\. User Characteristics <a name="2.3"></a>
 Target audience:
 * Users who need a functional application for reading books under the Android system without ads.
-### 3\. System Requirements <a name="3"></a>
+#### 3\. System Requirements <a name="3"></a>
 Run the application on the following operating systems:
 * Android OS
 #### 3.1\. Functional Requirements <a name="3.1"></a>
