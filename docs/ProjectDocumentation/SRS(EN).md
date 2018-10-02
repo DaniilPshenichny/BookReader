@@ -55,9 +55,17 @@ The ability to share information about the application | The application should 
 
 #### 3.2\. Non-Functional Requierements <a name="3.2"></a>
 ##### 3.2.1\. Software Quality Attributes <a name="3.2.1"></a>
-##### 3.2.1.1 External Quality Criteria <a name="3.2.1.1"></a>
-Important external criteria for this application are: quick start, low resource consumption.
-##### 3.2.1.2 Internal Quality Criteria <a name="3.2.1.2"></a>
-Internal criteria are: ease of use at the expense of a minimalist interface, ease of use by users with poor eyesight, quick response to changes in the state of the button, that is, the delay between pressing a key and switching tabs.
+
+#### 3.2.1.1 Usability Requirements
+1. All elements must be bright;
+2. All functional elements of the user interface have names that describe the action that will occur when an element is selected;
+#### 3.2.1.2 Security Requirements
+The application should work without mistakenly in the "Reading a book" tab;
+### 3.2.2 External Interfaces
+Application windows are convenient for use by visually impaired users:
+  * font size at least 14pt;
+  * Functional elements are contrasting with the window background.
+### 3.2.3 Restrictions
+ The application is implemented in the Java programming language;
 ### 4\. Analogues <a name="4"></a>
 This project is a simplified version of ["Play Books"] (https://play.google.com/store/apps/details?id=com.google.android.apps.books&hl=en&gl=ru) and ["PocketBook"] (https://play.google.com/store/apps/details?id=com.obreey.reader&hl=en&gl=en).
