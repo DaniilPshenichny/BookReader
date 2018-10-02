@@ -8,9 +8,11 @@
 3. [System Requirements](#3.) <br>
   3.1 [Functional Requirements](#3.1) <br>
   3.2 [Non-Functional Requierements](#3.2) <br>
-    3.2.1 [Software Quality Attributes](#3.2.1) <br>
-    3.2.1.1 [External Quality Criteria](#3.2.1.1) <br>
-    3.2.1.2 [Internal Quality Criteria](#3.2.1.2) <br>
+  3.2.1. [Software Quality Attributes](#3.2.1) <br>
+    3.2.1.1. [Usability](#3.2.1.1) <br>
+    3.2.1.2. [Security](#3.2.1.2) <br>
+  3.2.2. [External Interfaces](#3.2.2) <br>
+  3.2.3. [Constraints](#3.2.3) <br>
 4. [Analogues](#4) <br>
 
 ### Glossary
