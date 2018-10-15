@@ -9,5 +9,5 @@
 ### 1. Добавление книги<a name="1"></a>
 При нажатии кнопки "+" откроется окно проводника для выбора книг для записи в библиотеку. Необходимо выбрать книги и нажать "OK". При нажатии "Cancel" книги не добавятся в библиотеку, а окно закроется.
 
-![Добавление книги](https://raw.githubusercontent.com/DaniilPshenichny/BookReader/tree/master/docs/Diagramms/Activity/BookAdd.png)
+![Добавление книги](https://raw.githubusercontent.com//DaniilPshenichny/BookReader/blob/master/docs/Diagramms/Activity/BookAdd.jpg)
 
