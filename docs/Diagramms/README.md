@@ -23,7 +23,7 @@
 
 ### 3. Диаграмма последовательности<a name="3"></a>
 Диаграмма последовательности основного варианта использования представляет из себя следующую диаграмму:
-![Sequence Diagram](https://raw.githubusercontent.com/steppbol/B-Player/master/docs/Project%20Documentation/UMLDiagrams/Sequence/SequenceDiagram.png)
+![Sequence Diagram](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/Sequence/Sequence.png)
 
 ### 4. Диаграмма состояний<a name="4"></a>
 
