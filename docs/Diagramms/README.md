@@ -76,8 +76,16 @@
 ![Sequence Diagram](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/Sequence/Sequencee.png)
 
 ### 4. Диаграмма состояний<a name="4"></a>
-##1. Отображение меню приложения
+1. Отображение меню приложения
 ![Отображение меню приложения](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/State/Menu.jpg)
+2. Выбор раздела
+![Выбор раздела](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/State/tabchoice.jpg)
+3. Включение ночного режима
+![Включение ночного режима](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/State/nightmode.jpg)
+4. Переключение страниц
+![Переключение страниц](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/State/pagechanging.jpg)
+5. Выбор книги для чтения
+![Выбор книги для чтения](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/State/bookchoice.jpg)
 ### 5. Диаграмма классов<a name="5"></a>
 
 ### 6. Диаграмма развертывания и компонентов<a name="6"></a>
