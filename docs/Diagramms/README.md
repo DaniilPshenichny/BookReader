@@ -11,7 +11,7 @@
 2. [Диаграмма активности](#2)
 3. [Диаграмма последовательности](#3)
 4. [Диаграмма состояний](#4)
-5. [Диаграмма развёртывания](#5)
+5. [Диаграмма развёртывания и компонентов](#5)
 6. [Диаграмма классов](#6)
 
 ### 1. Диаграмма прецедентов<a name="6"></a>
@@ -76,7 +76,11 @@
 ![Sequence Diagram](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/Sequence/Sequencee.png)
 
 ### 4. Диаграмма состояний<a name="4"></a>
+1. Отображение меню приложения
 
+![Отображение меню приложения](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/State/Menu.jpg)
 ### 5. Диаграмма классов<a name="5"></a>
 
-### 6. Диаграмма развертывания<a name="6"></a>
+### 6. Диаграмма развертывания и компонентов<a name="6"></a>
+Диаграммы развёртывания и компонентов представляет собой следующую диаграмму: 
+[Component and Deployment Diagram](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/Component/Component.jpg)
