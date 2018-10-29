@@ -16,7 +16,7 @@
 
 ### 1. Диаграмма прецедентов<a name="6"></a>
 Диаграмма прецедентов представляет собой следующую диаграмму:
-![Use Case](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/UseCase/UseCase.png)
+![Use Case](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/UseCase/UseCasee.png)
 #### 1.1 Актёры<a name="1.1"></a>
 Актёр | Описание
 --- | ---
@@ -73,7 +73,7 @@
 
 ### 3. Диаграмма последовательности<a name="3"></a>
 Диаграмма последовательности основного варианта использования представляет из себя следующую диаграмму:
-![Sequence Diagram](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/Sequence/Sequence.png)
+![Sequence Diagram](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/Sequence/Sequencee.png)
 
 ### 4. Диаграмма состояний<a name="4"></a>
 
