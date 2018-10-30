@@ -4,3 +4,4 @@ BookReader is a mobile application designed for reading books.
 ### Requirments: ([Ru](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/ProjectDocumentation/SRS(RU).md)), ([En](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/ProjectDocumentation/SRS(EN).md))
 ### UML Diagramms: ([Ru](https://github.com/DaniilPshenichny/BookReader/tree/master/docs/Diagramms))
 ### Application: ([Code](https://github.com/DaniilPshenichny/BookReader/tree/master/docs/Programmcode/BookReader))
+### Tests: ([Tests plan](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Tests/test-plan.md)) , ([Tests check](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Tests/test-check.md))
