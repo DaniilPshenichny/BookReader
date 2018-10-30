@@ -11,12 +11,12 @@
 2. [Диаграмма активности](#2)
 3. [Диаграмма последовательности](#3)
 4. [Диаграмма состояний](#4)
-5. [Диаграмма развёртывания](#5)
+5. [Диаграмма развёртывания и компонентов](#5)
 6. [Диаграмма классов](#6)
 
 ### 1. Диаграмма прецедентов<a name="6"></a>
 Диаграмма прецедентов представляет собой следующую диаграмму:
-![Use Case](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/UseCase/UseCase.png)
+![Use Case](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/UseCase/UseCasee.png)
 #### 1.1 Актёры<a name="1.1"></a>
 Актёр | Описание
 --- | ---
@@ -73,10 +73,31 @@
 
 ### 3. Диаграмма последовательности<a name="3"></a>
 Диаграмма последовательности основного варианта использования представляет из себя следующую диаграмму:
-![Sequence Diagram](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/Sequence/Sequence.png)
+![Sequence Diagram](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/Sequence/Sequencee.png)
 
 ### 4. Диаграмма состояний<a name="4"></a>
+1. Отображение меню приложения
+
+![Отображение меню приложения](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/State/Menu.jpg)
+
+2. Выбор раздела
+
+![Выбор раздела](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/State/tabchoice.jpg)
+
+3. Включение ночного режима
+
+![Включение ночного режима](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/State/nightmode.jpg)
+
+4. Переключение страниц
+
+![Переключение страниц](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/State/pagechanging.jpg)
+
+5. Выбор книги для чтения
+
+![Выбор книги для чтения](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/State/bookchoice.jpg)
 
 ### 5. Диаграмма классов<a name="5"></a>
 
-### 6. Диаграмма развертывания<a name="6"></a>
+### 6. Диаграмма развертывания и компонентов<a name="6"></a>
+Диаграммы развёртывания и компонентов представляет собой следующую диаграмму: 
+![Component and Deployment Diagram](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/Component/Component.jpg)
