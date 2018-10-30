@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BookReader</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="read_with_pleasure">Read with pleasure</string>
+    <string name="about_app">About app</string>
+    <string name="library">Library</string>
+    <string name="current_book">Current book</string>
+    <string name="share">Share</string>
+    <string name="choose_file">Choose file</string>
+    <string name="permission_denied">Запрос отклонен</string>
+    <string name="about_msg">Read with pleasure\nDaniilPshenichny</string>
+    <string name="share_intent">Use BookReader!</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="night_mode">Night mode</string>
+    <string name="options">Options</string>
+    <string name="current_not_selected">Current book is not selected =)</string>
+</resources>

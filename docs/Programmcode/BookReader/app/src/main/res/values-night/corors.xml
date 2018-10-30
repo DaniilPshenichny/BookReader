@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Night theme-->
+    <color name="colorPrimary">#414141</color>
+    <color name="colorPrimaryDark">#9ea7aa</color>
+    <color name="colorPrimaryLight">#ffffff</color>
+    <color name="colorAccent">#ff8a65</color>
+    <color name="colorBackground">#53545e</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorHeader">#222222</color>
+</resources>
