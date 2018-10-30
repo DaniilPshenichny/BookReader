@@ -97,6 +97,25 @@
 ![Выбор книги для чтения](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/State/bookchoice.jpg)
 
 ### 5. Диаграмма классов<a name="5"></a>
+1. Диаграмма классов для фрагмента "About app"
+
+![Диаграмма классов для фрагмента "About app"](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/Class/Aboutapp.jpg)
+
+2. Диаграмма классов для фрагмента "PDF-reader"
+
+![Диаграмма классов для фрагмента "PDF-reader"](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/Class/pdf.jpg)
+
+3. Диаграмма классов для фрагмента "Main view"
+
+![Диаграмма классов для фрагмента "Main view"](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/Class/main.jpg)
+
+4. Диаграмма классов для фрагмента "Current book"
+
+![Диаграмма классов для фрагмента "Current book"](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/Class/current.jpg)
+
+5. Диаграмма классов для фрагмента "Application"
+
+![Диаграмма классов для фрагмента "Application"](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/Diagramms/Class/app.jpg)
 
 ### 6. Диаграмма развертывания и компонентов<a name="6"></a>
 Диаграммы развёртывания и компонентов представляет собой следующую диаграмму: 
