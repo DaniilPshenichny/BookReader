@@ -111,8 +111,10 @@ public class BookStyle {
         }
 
         public BookStyleBuilder setPaddings(int horizontal, int vertical) {
-            mPaddings[0] = mPaddings[2] = horizontal;
-            mPaddings[1] = mPaddings[3] = vertical;
+            mPaddings[0] = horizontal;
+            mPaddings[2] = horizontal;
+            mPaddings[1] = vertical;
+            mPaddings[3] = vertical;
             return this;
         }
 

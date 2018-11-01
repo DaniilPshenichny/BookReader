@@ -128,18 +128,7 @@ public class FontStyle {
 		mFirstLineInt = (int)(firstLine * 16);
 	}
 
-	/*public void changeContrast(float extraStroke) {
-		if (extraStroke > 0) {
-			mPaint.setStrokeWidth(extraStroke);
-			mPaint.setStyle(Style.FILL_AND_STROKE);
-		} else {
-			mPaint.setStyle(Style.FILL);
-		}
-	}
 
-	public void drawText(Canvas canvas, String text, float posx, float posy) {
-		canvas.drawText(text, posx, posy, mPaint);
-	}*/
 	
 	public void drawText(Canvas canvas, FixedCharSequence text, float posx, float posy) {
 		char [] chars = text.getChars();
@@ -175,37 +164,5 @@ public class FontStyle {
 		return (int)(mPaint.measureText(text.getChars(), text.getOffset(), text.length()) * 16);
 	}
 	
-	/*public static boolean isRTL(CharSequence text) {
-		char ch = text.charAt(0);
-		return (ch >= FIRST_RIGHT_TO_LEFT && ch <=LAST_RIGHT_TO_LEFT) || (ch >= FIRST_RIGHT_TO_LEFT_EX && ch <= LAST_RIGHT_TO_LEFT_EX);
-	}
-	
-	public static String reverseString(String value) {
-		
-		// simple cases
-		int length = value.length();
-		int offset = 0;
-		char [] newchars = new char[length];
-		char [] chars = value.toCharArray();
-		
-		int end = offset + length;
-		for(int i=offset;i<end;i++)
-			newchars[end - i - 1] = chars[i];
-		
-		return new String(newchars, 0, length);
-	}
-	
-	public static FixedCharSequence reverseString(FixedCharSequence value) {
-		
-		int length = value.length();
-		char [] newchars = new char[length];
-		char [] chars = value.getChars();
-		int offset = value.getOffset();
-		
-		int end = offset + length;
-		for (int i = offset; i < end; i++)
-			newchars[end - i - 1] = chars[i];
-		
-		return new FixedCharSequence(newchars, 0, length);
-	}*/
+
 }

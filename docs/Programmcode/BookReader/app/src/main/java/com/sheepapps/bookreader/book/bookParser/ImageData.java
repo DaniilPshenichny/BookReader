@@ -133,8 +133,8 @@ public class ImageData implements Serializable {
 	public Bitmap extractImage(int maxWidth, int maxHeight) {
 		Bitmap result = mBitmap != null ? mBitmap.get() : null;
 		
-		if (result != null && !result.isRecycled())
-			return result;
+		if (result != null && !result.isRecycled()){
+			return result;}
 
 		try {
 			init(null);
@@ -150,10 +150,10 @@ public class ImageData implements Serializable {
 				width /= 2;
 				height /= 2;
 			}
-			if (options.inSampleSize != 1)
+			if (options.inSampleSize != 1){
 				Log.d("TextReader", "Image size is " + mWidth + ", " + mHeight +
 						", while needed size is " + maxWidth + ", " + maxHeight +
-                        ", using sample size " + options.inSampleSize);
+                        ", using sample size " + options.inSampleSize);}
 			
 			if (mCacheFile != null && mData == null) {
 				try {
@@ -198,8 +198,8 @@ public class ImageData implements Serializable {
 	public void clean() {
 		Bitmap result = mBitmap != null ? mBitmap.get() : null;
 		
-		if (result != null && !result.isRecycled())
-			result.recycle();
+		if (result != null && !result.isRecycled()){
+			result.recycle();}
 		
 		mData = null;
 	}

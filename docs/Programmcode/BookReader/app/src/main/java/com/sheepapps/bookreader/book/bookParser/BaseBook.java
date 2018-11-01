@@ -67,6 +67,7 @@ public abstract class BaseBook implements Serializable {
 	
 	public void clean() {
 		if (mImages != null)
+		{
 			for(ImageData image: mImages)
 				image.clean();
 					
@@ -76,7 +77,7 @@ public abstract class BaseBook implements Serializable {
 		mNotes = null;
 		mStyles = null;
 		mReader = null;
-	}
+	}}
 	
 	protected void checkLanguage(BookData data) {
 		if (mLanguage == null) {

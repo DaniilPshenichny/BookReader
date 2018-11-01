@@ -91,7 +91,8 @@ public final class XmlBookParser {
 										
 										/// !!!! HACK
 										if (str.length() == 3 && str.toString().equals("rtl"))
-											rtl = true;
+										{
+											rtl = true;}
 										/// !!! HACK
 										
 										int pos = mClasses.get(str);
