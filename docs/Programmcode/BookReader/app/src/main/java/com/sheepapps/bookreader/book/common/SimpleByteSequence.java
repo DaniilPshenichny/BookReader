@@ -24,7 +24,8 @@ public final class SimpleByteSequence implements CharSequence
 	{
 		int length = to - from;
 		if (from + length > m_buffer.length)
-			length = m_buffer.length - from;
+		{
+			length = m_buffer.length - from;}
 		return new ByteCharSequence(m_buffer, from, length, null);
 	}
 
@@ -37,7 +38,8 @@ public final class SimpleByteSequence implements CharSequence
 	public CharBuffer toCharBuffer(int start, int length)
 	{		
 		if (start + length > m_buffer.length)
-			length = m_buffer.length - start;
+		{
+			length = m_buffer.length - start;}
 
 		return m_charset.decode(m_buffer, start, length);
 	}
